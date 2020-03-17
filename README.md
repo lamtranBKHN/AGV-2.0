@@ -11,5 +11,5 @@ This is my in progress AGV project.
  
  If you have any questions or ask for copyright please contact me by trandanhlam99@gmail.com
  
- Last let me thank to mr.ManhTran, mandevices lab and all my friends. I really appreciate your help with my project!
+ Last let me thank to mr.ManhTran, Mandevices Lab and all my friends. I really appreciate your help with my project!
  
