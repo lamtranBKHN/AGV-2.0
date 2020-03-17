@@ -3,6 +3,7 @@
 //---------------------------------------------------Lam_Tran----------------------------------------------//
 #include "stm32f1xx_hal.h"
 #include "motor.h"
+extern TIM_HandleTypeDef htim3;
 void motorLeftForward(uint32_t speed) {
 	HAL_TIM_PWM_Stop(&htim3, TIM_CHANNEL_1);
 	HAL_TIM_PWM_Stop(&htim3, TIM_CHANNEL_2);
