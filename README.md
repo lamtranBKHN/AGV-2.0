@@ -1,7 +1,7 @@
 # LamTran
 This is my in progress AGV project.
 + Software has:
-  + Programs for STM32F103RCT6 (STM32F407VET in the future for higher performance) is in AGV2.0/software/AGV program for STM32. You can download and run it completely or over view this code in SRC folder
+  + Programs for STM32F103RCT6 (STM32F407VET in the future for higher performance) is in AGV2.0/software/AGV program for STM32. You can download and run it completely or overview this code in SRC folder
   + Programs for ESP8266 webserver.
   + All included libraries
  
