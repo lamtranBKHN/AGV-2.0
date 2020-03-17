@@ -5,7 +5,7 @@ This is my in progressing AGV project.
   + Programs for ESP8266 webserver.
   + All included libraries
  
- + Hardware is designed in Altium. Only way to view my project PCB is download hardware folder and open it with Altium software.
+ + Hardware is designed in Altium. Only way to view my project PCB is downloading hardware folder and open it with Altium software.
 
  + Accompanying documents and pitures.
  
