@@ -66,7 +66,6 @@ void setup() {
   pinMode(output3, OUTPUT);
   pinMode(output2, OUTPUT);
   pinMode(output1, OUTPUT);
-  // PIR Motion Sensor mode INPUT_PULLUP
   pinMode(getIP, INPUT_PULLUP);
   // Set motionSensor pin as interrupt, assign interrupt function and set RISING mode
   attachInterrupt(digitalPinToInterrupt(getIP), GetIP, FALLING);
