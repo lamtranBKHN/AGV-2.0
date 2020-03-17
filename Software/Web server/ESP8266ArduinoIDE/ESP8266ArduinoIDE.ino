@@ -22,7 +22,7 @@ const char* password = "0903482723";
 String header;
 
 // Auxiliar variables to store the current output state
-String output5State = "obyiff";
+String output5State = "off";
 String output4State = "off";
 String output3State = "off";
 String output1State = "on";
