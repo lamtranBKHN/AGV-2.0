@@ -11,9 +11,9 @@
 #include "motor.h"
 
 #define goal 5000      								// PID's goal
-#define MAX_PWM 5000					 				// Set maximum speed
-#define MIN_PWM 50						 				// Set minimum speed
-#define Low_battery 500			 				// adc value at battery-info port when it is low at 3V
+#define MAX_PWM 5000					 			// Set maximum speed
+#define MIN_PWM 50						 		// Set minimum speed
+#define Low_battery 500			 					// adc value at battery-info port when it is low at 3V
 #define Full_battery  3000
 
 /* Private variables ---------------------------------------------------------------------------------------*/
